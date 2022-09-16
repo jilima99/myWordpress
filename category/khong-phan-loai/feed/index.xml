@@ -37,7 +37,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-dae8a3e elementor-widget elementor-widget-text-editor" data-id="dae8a3e" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+			<style>/*! elementor - v3.7.5 - 14-09-2022 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><strong>Boxing</strong></p>						</div>
 				</div>
 					</div>
@@ -86,7 +86,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-a92a16d elementor-widget elementor-widget-image" data-id="a92a16d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+			<style>/*! elementor - v3.7.5 - 14-09-2022 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="474" height="474" src="https://jilima99.github.io/myWordpress/wp-content/uploads/2022/09/mtgp.jpg" class="attachment-medium_large size-medium_large" alt="hehehehehe" loading="lazy" />															</div>
 				</div>
 					</div>
