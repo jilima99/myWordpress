@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dĩa &#8211; Web bán phụ kiện đi phượt</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/dia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jilima99.github.io/myWordpress</link>
+	<description>Có như Có</description>
+	<lastBuildDate>Thu, 06 Oct 2022 15:07:54 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>CRAZY FAST BIKE</title>
+		<link>https://jilima99.github.io/myWordpress/san-pham/crazy-fast-bike/</link>
+					<comments>https://jilima99.github.io/myWordpress/san-pham/crazy-fast-bike/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhdanh]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 15:07:53 +0000</pubDate>
+				<guid isPermaLink="false">https://jilima99.github.io/myWordpress/?post_type=product&#038;p=370</guid>
+
+					<description><![CDATA[Phasellus sed volutpat orci. Fusce eget lore mauris vehicula elementum gravida nec dui. Aenean aliquam varius ipsum, non ultricies tellus sodales eu. Donec dignissim viverra nunc, ut aliquet magna posuere eget.]]></description>
+										<content:encoded><![CDATA[<p>Curabitur egestas malesuada volutpat. Nunc vel vestibulum odio, ac pellentesque lacus. Pellentesque dapibus nunc nec est imperdiet, a malesuada sem rutrum. Sed quam odio, porta a finibus quis, sagittis aliquet leo. Nunc ornare metus urna, eu luctus velit placerat ut. Cras at porttitor lectus. Ut dapibus aliquam nibh, in imperdiet libero tincidunt sit amet. Morbi sodales fermentum nibh nec facilisis. Morbi pharetra varius velit, eget varius libero finibus quis. Quisque auctor varius lectus, lacinia rhoncus velit posuere vel. Cras condimentum tincidunt urna, sed vehicula ipsum dapibus et. Pellentesque pharetra ultrices varius. Sed viverra nec purus ut ornare.</p>
+<ul>
+<li>Aenean auctor sem ac ex efficitur</li>
+<li>Non mattis odio bibendum</li>
+<li>Sed vitae enim at tortor finibus</li>
+<li>Integer facilisis eleifend vehicula</li>
+<li>In hac habitasse platea dictumst</li>
+</ul>
+<p>Sed molestie orci sem, at semper est molestie ac. Suspendisse cursus feugiat erat, eu posuere massa. Nullam posuere nibh non eros lobortis tempus. Maecenas dignissim elementum massa, vel accumsan urna elementum in. Suspendisse at dui euismod, rhoncus eros non, imperdiet ipsum. Vestibulum vehicula vel turpis et vestibulum. Ut porta et ex maximus malesuada.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jilima99.github.io/myWordpress/san-pham/crazy-fast-bike/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

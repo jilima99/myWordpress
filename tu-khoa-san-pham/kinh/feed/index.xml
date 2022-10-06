@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kính &#8211; Web bán phụ kiện đi phượt</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/kinh/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jilima99.github.io/myWordpress</link>
+	<description>Có như Có</description>
+	<lastBuildDate>Thu, 06 Oct 2022 15:39:14 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>STEREO SPORT KL-300</title>
+		<link>https://jilima99.github.io/myWordpress/san-pham/stereo-sport-kl-300/</link>
+					<comments>https://jilima99.github.io/myWordpress/san-pham/stereo-sport-kl-300/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhdanh]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 15:39:14 +0000</pubDate>
+				<guid isPermaLink="false">https://jilima99.github.io/myWordpress/?post_type=product&#038;p=399</guid>
+
+					<description><![CDATA[The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece comfort all year around. Feel better in this sweatshirt because Hanes keeps plastic bottles of landfills by using recycled polyester.7.8 ounce fleece sweatshirt made with up to 5 percent polyester created from recycled plastic.]]></description>
+										<content:encoded><![CDATA[<div>Allover border print, bold and trendy burgundy color and lace chest make this an eye catching style.</div>
+<div>
+<ul class="a-nostyle a-vertical a-spacing-none">
+<li>Aenean auctor sem ac ex efficitur</li>
+<li>Non mattis odio bibendum</li>
+<li>Sed vitae enim at tortor finibus</li>
+<li>Integer facilisis eleifend vehicula</li>
+<li>In hac habitasse platea dictumst</li>
+</ul>
+<p>The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece comfort all year around. Feel better in this sweatshirt because Hanes keeps plastic bottles of landfills by using recycled polyester.7.8 ounce fleece sweatshirt made with up to 5 percent polyester created from recycled plastic.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jilima99.github.io/myWordpress/san-pham/stereo-sport-kl-300/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
